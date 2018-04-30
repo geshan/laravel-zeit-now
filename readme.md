@@ -1,5 +1,7 @@
 ## Laravel test on Zeit now
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/geshan/laravel-zeit-now.svg)](https://greenkeeper.io/)
+
 Works fine at laravel.now.sh thanks to [Zeit.co](https://zeit.co/).
 
 ### To try this repo now Zeit/now
