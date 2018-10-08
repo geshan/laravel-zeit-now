@@ -1,6 +1,6 @@
 ## Laravel test on Zeit now
 
-Works fine at laravel.now.sh thanks to [Zeit.co](https://zeit.co/).
+Works fine at [laravel.now.sh](https://laravel.now.sh) thanks to [Zeit.co](https://zeit.co/).
 
 ### To try this repo now Zeit/now
 
