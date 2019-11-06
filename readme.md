@@ -2,6 +2,10 @@
 
 Works fine at [laravel.now.sh](https://laravel.now.sh) thanks to [Zeit.co](https://zeit.co/).
 
+## Repo Deprecated
+
+Zeit's new version has stopped supporting docker containers so this repo is not useful anymore. If you want to run Laravel Docker containers on a serverless environment read this step by step [tutorial](https://geshan.com.np/blog/2019/10/get-laravel-6-running-on-google-cloud-run-step-by-step-with-ci/) or check this new [repo](https://github.com/geshan/laravel6-on-google-cloud-run). Thanks!
+
 ### To try this repo now Zeit/now
 
 Do the following
